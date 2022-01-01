@@ -1,0 +1,6 @@
+services:
+  dt:
+    build: .
+    volumes:
+      - .:/app
+    user: me
