@@ -1,0 +1,6 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "test": "docker-compose run dt dapp test"
+  }
+}
